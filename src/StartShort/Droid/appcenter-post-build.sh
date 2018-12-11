@@ -9,8 +9,8 @@ set -e
 # variables
 
 appCenterLoginApiToken=$AppCenterLoginToken # this comes from the build environment variables
-appName="kamemaru2011-gmail.com/XamAppCenterSample2018Droid" # 自分のアプリ名に書き換える
-deviceSetName="kamemaru2011-gmail.com/my_devices_android" # 自分のデバイスセット名に書き換える
+appName="kamemaru2011-gmail.com/XamAppCenterSample2018Droid" 
+deviceSetName="kamemaru2011-gmail.com/my_devices_android" 
 publishedAppFileName="com.naochan2018.XamAppCenterSample2018.apk"
 sourceFileRootDir="$APPCENTER_SOURCE_DIRECTORY/src/StartShort"
 uiTestProjectName="UITests"
