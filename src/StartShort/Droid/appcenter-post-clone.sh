@@ -14,7 +14,7 @@ DirName=$(dirname ${MyWorkingDir})
 filename="$DirName/XamAppCenterSample2018/Variables.cs"
 
 # (2) The text that will be replaced
-stringToFind="\[Enter Your API KEY\]"
+stringToFind="\[ENTER YOUR API KEY\]"
 
 # (3) The secret it will be replaced with
 AppCenterSecret=$API_KEY # this is set up in the App Center build config
