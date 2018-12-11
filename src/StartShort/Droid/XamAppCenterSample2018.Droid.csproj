@@ -114,6 +114,7 @@
     <None Include="Assets\AboutAssets.txt" />
     <None Include="packages.config" />
     <None Include="appcenter-post-clone.sh" />
+    <None Include="appcenter-post-build.sh" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
